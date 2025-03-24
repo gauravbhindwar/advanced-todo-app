@@ -29,7 +29,41 @@ A feature-rich todo application built with React, Redux Toolkit, and TailwindCSS
 
 ## Screenshots
 
-[Add your screenshots here]
+**Desktop Mode**
+![Login Page](https://github.com/user-attachments/assets/7580537c-a615-49c4-81c7-9291e83cd523)
+
+![SignUp Page](https://github.com/user-attachments/assets/95b03ca8-e661-425f-b0ff-65df6708ebd2)
+
+![Todo Dashboard](https://github.com/user-attachments/assets/b6ac9bd5-6681-492c-8463-86bf0cc3a401)
+
+![Screenshot 2025-03-24 232936](https://github.com/user-attachments/assets/b9eae390-ddd7-49b1-84eb-daa1739c2080)
+
+![Screenshot 2025-03-24 232947](https://github.com/user-attachments/assets/636d7c59-62ae-4f7b-8219-93cdd8fd7eee)
+
+**Mobile Design**
+
+![Login Page](https://github.com/user-attachments/assets/f9696728-4e8e-4f6e-ac40-fe7b2887366e)
+
+![Signup](https://github.com/user-attachments/assets/5a8e3c0f-8e7a-460e-a231-5ec7bc573d53)
+
+![Img 3](https://github.com/user-attachments/assets/6d2048dd-a287-4b82-84f3-11ac6b96e6e9)
+
+![Img 4](https://github.com/user-attachments/assets/9e5a5236-4d85-4ae3-9b5c-d7f4f4c526a9)
+
+![Img 5](https://github.com/user-attachments/assets/934d6974-6587-43a7-9400-86ca2fee9b40)
+
+![Img 6](https://github.com/user-attachments/assets/2a5b8419-3705-4d0f-9459-b5b747e3227a)
+
+![Img 7](https://github.com/user-attachments/assets/64d6c7df-2d73-4363-b548-b6607156ea85)
+
+![Img 8](https://github.com/user-attachments/assets/cb1edb9f-1d64-49d5-853e-a7284281bc01)
+
+![Img 9](https://github.com/user-attachments/assets/6cb4dc3b-8dc8-472e-a9d0-450bfac3d59a)
+
+
+
+
+
 
 ## Prerequisites
 
